@@ -14,3 +14,8 @@ function greet(name: string): string {
 
 console.log(greet("Developer"));
 console.log(`TypeScript is awesome? ${isAwesome}`);
+var x:number=20;
+console.log(x);
+
+var y:string="Hello";
+console.log(y);
